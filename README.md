@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer · API & Distributed Systems</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Gianmarco – Backend Developer" width="720" />
+  <img src="163e7297-867b-42bb-b7fc-b9a23632d7fe.png" alt="Gianmarco – Backend Developer" width="350" />
 </p>
 
 <p align="center">
